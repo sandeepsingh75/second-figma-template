@@ -1,0 +1,49 @@
+.main{
+    height: 40rem;
+    padding: 2rem;
+}
+
+.image{
+    height: 28rem;
+    width: 30rem;
+    
+}
+
+.textContainer{
+    width: 30rem;
+    display: grid;
+    grid-template-columns: 50% 50%;
+    background: #B5C8DB;
+}
+
+.firstColumn{
+    text-align: center;
+}
+
+.artist{
+    font-weight: 600;
+font-size: 28px;
+line-height: 1px;
+letter-spacing: 0.07em;
+color: #16091B;
+}
+
+.startBid {
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 1px;
+    color: #594D5E;
+}
+
+.secondColumn{
+    text-align: center;
+    line-height: 6rem;
+}
+
+.startButton{
+    font-weight: 700;
+font-size: 24px;
+line-height: 28px;
+color: #000000;
+background: #FFCE4E;
+}
